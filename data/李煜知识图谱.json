@@ -1,0 +1,112 @@
+[
+  {
+    "name": "李煜",
+    "type": "诗人",
+    "dynasty": "五代十国",
+    "PersonId": 1440313362285690112,
+    "birth_year": "937年8月15日",
+    "death_year": "978年8月13日",
+    "title": "词中之帝、千古词帝",
+    "works": "《虞美人·春花秋月何时了》《相见欢·无言独上西楼》《浪淘沙令·帘外雨潺潺》等",
+    "relation_to_poet": "本人"
+  },
+  {
+    "name": "李璟",
+    "type": "人物",
+    "dynasty": "五代十国",
+    "PersonId": -6313152421236670464,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": NaN,
+    "works": NaN,
+    "relation_to_poet": "父亲（南唐元宗）"
+  },
+  {
+    "name": "李从善",
+    "type": "人物",
+    "dynasty": "五代十国",
+    "PersonId": 3257826551814730240,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": NaN,
+    "works": NaN,
+    "relation_to_poet": "弟弟（派其去宋朝进贡）"
+  },
+  {
+    "name": "金陵",
+    "type": "地点",
+    "dynasty": "五代十国",
+    "PersonId": 4210461089257970176,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "都城",
+    "works": NaN,
+    "relation_to_poet": "南唐都城"
+  },
+  {
+    "name": "汴京",
+    "type": "地点",
+    "dynasty": "五代十国",
+    "PersonId": -5328054418651899904,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "囚禁地",
+    "works": NaN,
+    "relation_to_poet": "被俘后囚禁地"
+  },
+  {
+    "name": "《虞美人·春花秋月何时了》",
+    "type": "作品",
+    "dynasty": "五代十国",
+    "PersonId": -511261377874217024,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李煜诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：李煜被俘入宋后，在被囚禁生活中，追怀往事、怀念故国，抒发亡国之痛所作，据说此词成为他被害的直接原因之一。"
+  },
+  {
+    "name": "《相见欢·无言独上西楼》",
+    "type": "作品",
+    "dynasty": "五代十国",
+    "PersonId": -583356307259942016,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李煜诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：亡国后，李煜被囚于汴京，通过描写寂寞的秋夜，抒发内心的离愁别绪。"
+  },
+  {
+    "name": "《浪淘沙令·帘外雨潺潺》",
+    "type": "作品",
+    "dynasty": "五代十国",
+    "PersonId": -5870467449941770240,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李煜诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：同样是亡国后，在汴京回忆昔日南唐，梦里贪欢，醒来面对残酷现实，表达对故国的思念和亡国的悲痛。"
+  },
+  {
+    "name": "《清平乐·别来春半》",
+    "type": "作品",
+    "dynasty": "五代十国",
+    "PersonId": 5891976221021549568,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李煜诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：公元971年秋，李煜派弟弟李从善去宋朝进贡，被扣留在汴京。974年，李煜请求宋太祖让从善回国，未获允许，李煜非常想念他而作此词。"
+  },
+  {
+    "name": "《破阵子·四十年来家国》",
+    "type": "作品",
+    "dynasty": "五代十国",
+    "PersonId": -4129815880883350016,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李煜诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：公元975年，南唐都城金陵被北宋军队攻破，李煜回顾南唐四十年的家国、三千里的山河，感慨亡国之痛和自己沦为臣虏的悲哀。"
+  }
+]

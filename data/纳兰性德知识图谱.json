@@ -1,0 +1,90 @@
+[
+  {
+    "name": "纳兰性德",
+    "type": "诗人",
+    "dynasty": "清朝",
+    "PersonId": 3006567487072920064,
+    "birth_year": "1655年1月19日",
+    "death_year": "1685年7月1日",
+    "title": "满清第一词人",
+    "works": "《木兰花·令拟古决绝词》《长相思·山一程》《浣溪沙·谁念西风独自凉》等",
+    "relation_to_poet": "本人"
+  },
+  {
+    "name": "顾贞观",
+    "type": "人物",
+    "dynasty": "清朝",
+    "PersonId": 534326021093768000,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": NaN,
+    "works": NaN,
+    "relation_to_poet": "好友（帮助纳兰性德纳沈宛）"
+  },
+  {
+    "name": "纳兰明珠",
+    "type": "人物",
+    "dynasty": "清朝",
+    "PersonId": 6084514064241909760,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": NaN,
+    "works": NaN,
+    "relation_to_poet": "父亲（成长背景中提及）"
+  },
+  {
+    "name": "渌水亭",
+    "type": "地点",
+    "dynasty": "清朝",
+    "PersonId": 3415335608966240256,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "重要地点",
+    "works": NaN,
+    "relation_to_poet": "文人雅聚场所"
+  },
+  {
+    "name": "山海关",
+    "type": "地点",
+    "dynasty": "清朝",
+    "PersonId": 7447844881961610240,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "创作地",
+    "works": NaN,
+    "relation_to_poet": "《长相思·山一程》创作地"
+  },
+  {
+    "name": "《木兰花·令拟古决绝词》",
+    "type": "作品",
+    "dynasty": "清朝",
+    "PersonId": -5080200398706870272,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "纳兰性德诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：可能表达对与表妹之间爱情的情愫，感慨人生若只如初见般美好，何事会有后来的悲伤。"
+  },
+  {
+    "name": "《长相思·山一程》",
+    "type": "作品",
+    "dynasty": "清朝",
+    "PersonId": -5007656280410519552,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "纳兰性德诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：康熙二十一年，皇帝出关祭祖，纳兰性德随行，到达山海关时，看到千里冰封、营帐灯光摇曳的景象，想起戍边将士的悲凉和远方的家和友人，一宿无眠而作。"
+  },
+  {
+    "name": "《浣溪沙·谁念西风独自凉》",
+    "type": "作品",
+    "dynasty": "清朝",
+    "PersonId": -872406193122253952,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "纳兰性德诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：通过描写西风、黄叶、残阳等景象，回忆往事，抒发孤独、惆怅之情，‘赌书消得泼茶香’可能是回忆与妻子的美好生活。"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "辛弃疾",
+    "type": "诗人",
+    "dynasty": "南宋",
+    "PersonId": 4866017899382679552,
+    "birth_year": "1140年5月28日",
+    "death_year": "1207年10月3日",
+    "title": "词中之龙",
+    "works": "《破阵子·为陈同甫赋壮词以寄之》《青玉案·元夕》《永遇乐·京口北固亭怀古》《西江月·夜行黄沙道中》等",
+    "relation_to_poet": "本人"
+  },
+  {
+    "name": "耿京",
+    "type": "人物",
+    "dynasty": "南宋",
+    "PersonId": 5612565211253319680,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": NaN,
+    "works": NaN,
+    "relation_to_poet": "上司（参加耿京领导的起义军）"
+  },
+  {
+    "name": "韩侂胄",
+    "type": "人物",
+    "dynasty": "南宋",
+    "PersonId": 6900432420916979712,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": NaN,
+    "works": NaN,
+    "relation_to_poet": "同僚（开禧北伐时起用辛弃疾）"
+  },
+  {
+    "name": "上饶",
+    "type": "地点",
+    "dynasty": "南宋",
+    "PersonId": -7543154231696390144,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "居住地",
+    "works": NaN,
+    "relation_to_poet": "带湖家居所在地"
+  },
+  {
+    "name": "京口",
+    "type": "地点",
+    "dynasty": "南宋",
+    "PersonId": 6556455532768579584,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "创作地",
+    "works": NaN,
+    "relation_to_poet": "《永遇乐·京口北固亭怀古》创作地"
+  },
+  {
+    "name": "《破阵子·为陈同甫赋壮词以寄之》",
+    "type": "作品",
+    "dynasty": "南宋",
+    "PersonId": -3874682244785840128,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "辛弃疾诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：通过描绘想象中练兵、杀敌的场景与气氛，表达词人的远大抱负，最后一句‘可怜白发生’抒发了‘壮志难酬’的悲愤。"
+  },
+  {
+    "name": "《青玉案·元夕》",
+    "type": "作品",
+    "dynasty": "南宋",
+    "PersonId": 8881455704469550080,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "辛弃疾诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：描绘元宵之夜的热闹场景，表达词人对‘灯火阑珊处’之人的寻觅，‘遗世独立’的美人可能是心中的理想。"
+  },
+  {
+    "name": "《永遇乐·京口北固亭怀古》",
+    "type": "作品",
+    "dynasty": "南宋",
+    "PersonId": -701125985145305984,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "辛弃疾诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：辛弃疾66岁时，北伐抗金有新动作，他支持但又充满担忧，词中用三个历史人物、七个典故，道出壮志与担忧，放射着爱国主义的思想光辉。"
+  },
+  {
+    "name": "《西江月·夜行黄沙道中》",
+    "type": "作品",
+    "dynasty": "南宋",
+    "PersonId": -1882846083800940032,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "辛弃疾诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：宋孝宗淳熙八年（1181年），辛弃疾受奸臣排挤被免罢官，回到上饶带湖家居，此词描绘夏夜山村风光，情景交融，是宋词中以农村生活为题材的佳作。"
+  },
+  {
+    "name": "《丑奴儿·书博山道中壁》",
+    "type": "作品",
+    "dynasty": "南宋",
+    "PersonId": -5924800368244849664,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "辛弃疾诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：宋孝宗淳熙年间，辛弃疾在带湖居住期间，常到博山游览，眼看国事日非，自己无能为力，在博山道中一壁上题此词，通过‘少年’与‘而今’的对比，表达受压抑、遭排挤、报国无门的痛苦之情。"
+  }
+]

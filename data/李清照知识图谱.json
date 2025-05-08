@@ -1,0 +1,134 @@
+[
+  {
+    "name": "李清照",
+    "type": "诗人",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": -3166235351175819776,
+    "birth_year": "1084年3月13日",
+    "death_year": "1155年5月12日",
+    "title": "千古第一才女",
+    "works": "《声声慢·寻寻觅觅》《一剪梅·红藕香残玉簟秋》《如梦令·常记溪亭日暮》《夏日绝句》等",
+    "relation_to_poet": "本人"
+  },
+  {
+    "name": "赵明诚",
+    "type": "人物",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": -7450988907972079616,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": NaN,
+    "works": NaN,
+    "relation_to_poet": "丈夫（建中靖国元年成婚）"
+  },
+  {
+    "name": "李格非",
+    "type": "人物",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": -6394342569252939776,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": NaN,
+    "works": NaN,
+    "relation_to_poet": "父亲（家世背景中提及）"
+  },
+  {
+    "name": "青州",
+    "type": "地点",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": -1014094841584259968,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "居住地",
+    "works": NaN,
+    "relation_to_poet": "与赵明诚屏居地"
+  },
+  {
+    "name": "金华",
+    "type": "地点",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": -2182259632616290048,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "避难地",
+    "works": NaN,
+    "relation_to_poet": "避难浙江金华时创作《武陵春》"
+  },
+  {
+    "name": "《如梦令·常记溪亭日暮》",
+    "type": "作品",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": 3978493111051279872,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李清照诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：为李清照来到汴京不久的处女之作，以特有的方式表达了她青春时期生活的情趣和心境。"
+  },
+  {
+    "name": "《如梦令·昨夜雨疏风骤》",
+    "type": "作品",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": -2639762172459049984,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李清照诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：李清照少女时代的代表作，将景、物、人、酒连成一气，体现出待字闺中的洒脱与不羁。"
+  },
+  {
+    "name": "《一剪梅·红藕香残玉簟秋》",
+    "type": "作品",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": -5018993231940450304,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李清照诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：婚后不久，与丈夫赵明诚分别期间所作，倾诉相思、别愁之苦，展示出婉约之美。"
+  },
+  {
+    "name": "《夏日绝句》",
+    "type": "作品",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": -7898592325370510336,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李清照诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：北宋灭亡，漂泊流离到南方后，面对国破家亡的惨剧，统治者不思收复故土，李清照悲愤之下写下此诗，借古讽今、抒发悲愤。"
+  },
+  {
+    "name": "《醉花阴·薄雾浓云愁永昼》",
+    "type": "作品",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": -1659616716723130112,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李清照诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：婚后思念远行的丈夫赵明诚所作，描摹闺中少妇心事重重的愁态，烘托凄凉寂寥氛围。"
+  },
+  {
+    "name": "《声声慢·寻寻觅觅》",
+    "type": "作品",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": -4464821686202279936,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李清照诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：通过描写残秋所见、所闻、所感，抒发因国破家亡、天涯沦落而产生的孤寂落寞、悲凉愁苦的心绪。"
+  },
+  {
+    "name": "《武陵春·春晚》",
+    "type": "作品",
+    "dynasty": "宋代（南北宋之交）",
+    "PersonId": -5469557864474789888,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李清照诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：宋高宗绍兴五年避难浙江金华时所作，当时丈夫病故，家藏金石文物散失殆尽，借暮春之景写出内心深处的苦闷和忧愁。"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "李白",
+    "type": "诗人",
+    "dynasty": "唐朝",
+    "PersonId": -8675150582982500352,
+    "birth_year": "701年",
+    "death_year": "762年",
+    "title": "诗仙",
+    "works": "《将进酒》《静夜思》《望庐山瀑布》《蜀道难》等",
+    "relation_to_poet": "本人"
+  },
+  {
+    "name": "杜甫",
+    "type": "诗人",
+    "dynasty": "唐朝",
+    "PersonId": -206981623340460992,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": NaN,
+    "works": NaN,
+    "relation_to_poet": "好友（天宝三年在洛阳相遇）"
+  },
+  {
+    "name": "孟浩然",
+    "type": "人物",
+    "dynasty": "唐朝",
+    "PersonId": 1883251694420669952,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": NaN,
+    "works": NaN,
+    "relation_to_poet": "友人（游历途中结识）"
+  },
+  {
+    "name": "贺知章",
+    "type": "人物",
+    "dynasty": "唐朝",
+    "PersonId": -8403726908339649536,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": NaN,
+    "works": NaN,
+    "relation_to_poet": "赏识者（称李白为谪仙人）"
+  },
+  {
+    "name": "长安",
+    "type": "地点",
+    "dynasty": "唐朝",
+    "PersonId": -2934458273279889920,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "重要地点",
+    "works": NaN,
+    "relation_to_poet": "供奉翰林所在地"
+  },
+  {
+    "name": "庐山",
+    "type": "地点",
+    "dynasty": "唐朝",
+    "PersonId": 8219154339822180352,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "避难地",
+    "works": NaN,
+    "relation_to_poet": "安史之乱后避居地"
+  },
+  {
+    "name": "《将进酒》",
+    "type": "作品",
+    "dynasty": "唐朝",
+    "PersonId": 4120589887783240192,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李白诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：置酒会友时，正值怀才不遇之际，诗人情感与文思如狂风暴雨、江河入海，感叹人生易老、怀才不遇，把激愤之情化作豪放行乐之举。"
+  },
+  {
+    "name": "《静夜思》",
+    "type": "作品",
+    "dynasty": "唐朝",
+    "PersonId": 6443045815544550400,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李白诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：客居他乡，在一个夜晚，看到床前明月，引发思乡之情，用平淡语言生动表现了思乡心理。"
+  },
+  {
+    "name": "《望庐山瀑布》",
+    "type": "作品",
+    "dynasty": "唐朝",
+    "PersonId": 6851851329728449536,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李白诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：描绘庐山瀑布雄奇壮丽的景色，‘生’‘挂’‘落’三字用得精妙，展现出磅礴气势和丰富想象力。"
+  },
+  {
+    "name": "《蜀道难》",
+    "type": "作品",
+    "dynasty": "唐朝",
+    "PersonId": 3031526119264880128,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李白诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：以浪漫主义手法，展开丰富想象，艺术地再现了蜀道峥嵘、突兀、强悍、崎岖等奇丽惊险和不可凌越的磅礴气势。"
+  },
+  {
+    "name": "《赠汪伦》",
+    "type": "作品",
+    "dynasty": "唐朝",
+    "PersonId": -1075724402798729984,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李白诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：诗人与汪伦离别之际，汪伦脚踏地打着拍节为其送行，李白感动之下写下此诗，赞颂真挚深厚的情谊。"
+  },
+  {
+    "name": "《早发白帝城》",
+    "type": "作品",
+    "dynasty": "唐朝",
+    "PersonId": 7563346329044179968,
+    "birth_year": NaN,
+    "death_year": NaN,
+    "title": "李白诗作",
+    "works": NaN,
+    "relation_to_poet": "创作背景：在被贬途中忽闻大赦，惊喜万分，立刻驾舟东还，沿长江顺流而下，一日千里，全诗气势豪爽，表达了历尽艰险重履康庄的喜悦。"
+  }
+]
